@@ -1,0 +1,398 @@
+2022-08-25 06:44:00,633 - eBanking -INFO - user name provided
+2022-08-25 06:44:01,054 - eBanking -INFO - password provided
+2022-08-25 06:44:33,645 - eBanking -INFO - Login passed
+2022-08-25 06:45:01,993 - eBanking -INFO - user name provided
+2022-08-25 06:45:02,141 - eBanking -INFO - password provided
+2022-08-25 06:45:30,177 - eBanking -INFO - user name provided
+2022-08-25 06:45:30,296 - eBanking -INFO - password provided
+2022-08-25 06:45:58,555 - eBanking -INFO - user name provided
+2022-08-25 06:45:58,669 - eBanking -INFO - password provided
+2022-08-25 06:46:26,836 - eBanking -INFO - user name provided
+2022-08-25 06:46:26,991 - eBanking -INFO - password provided
+2022-08-25 06:47:04,045 - eBanking -INFO - URL is Opened
+2022-08-25 06:47:04,213 - eBanking -INFO - Enter User Name
+2022-08-25 06:47:04,327 - eBanking -INFO - Enter your Password
+2022-08-25 06:47:28,120 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 06:47:28,350 - eBanking -INFO - LogIn test Failed
+2022-08-25 06:48:00,556 - eBanking -INFO - Enter User Name
+2022-08-25 06:48:00,738 - eBanking -INFO - Enter your Password
+2022-08-25 06:48:24,465 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 06:48:29,554 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 06:54:35,912 - eBanking -INFO - user name provided
+2022-08-25 06:54:36,093 - eBanking -INFO - password provided
+2022-08-25 06:54:59,071 - eBanking -INFO - Login passed
+2022-08-25 06:55:06,097 - eBanking -INFO - user name provided
+2022-08-25 06:55:06,183 - eBanking -INFO - password provided
+2022-08-25 06:55:27,257 - eBanking -INFO - user name provided
+2022-08-25 06:55:27,469 - eBanking -INFO - password provided
+2022-08-25 06:55:57,014 - eBanking -INFO - user name provided
+2022-08-25 06:55:57,085 - eBanking -INFO - password provided
+2022-08-25 06:56:25,764 - eBanking -INFO - user name provided
+2022-08-25 06:56:25,923 - eBanking -INFO - password provided
+2022-08-25 06:57:23,142 - eBanking -INFO - URL is Opened
+2022-08-25 06:57:23,251 - eBanking -INFO - Enter User Name
+2022-08-25 06:57:23,365 - eBanking -INFO - Enter your Password
+2022-08-25 06:57:46,459 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 06:57:46,790 - eBanking -INFO - LogIn test Failed
+2022-08-25 06:57:56,132 - eBanking -INFO - Enter User Name
+2022-08-25 06:57:56,308 - eBanking -INFO - Enter your Password
+2022-08-25 06:58:17,079 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 06:58:22,189 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 06:59:09,067 - eBanking -INFO - Enter User Name
+2022-08-25 06:59:09,201 - eBanking -INFO - Enter your Password
+2022-08-25 06:59:10,956 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 06:59:16,216 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:07:13,386 - eBanking -INFO - Enter User Name
+2022-08-25 07:07:13,529 - eBanking -INFO - Enter your Password
+2022-08-25 07:07:33,394 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:07:38,488 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:11:34,020 - eBanking -INFO - URL is Opened
+2022-08-25 07:11:34,152 - eBanking -INFO - Enter User Name
+2022-08-25 07:11:34,267 - eBanking -INFO - Enter your Password
+2022-08-25 07:11:57,511 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:11:57,917 - eBanking -INFO - LogIn test Failed
+2022-08-25 07:15:58,392 - eBanking -INFO - URL is Opened
+2022-08-25 07:15:58,536 - eBanking -INFO - Enter User Name
+2022-08-25 07:15:58,660 - eBanking -INFO - Enter your Password
+2022-08-25 07:16:22,194 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:16:22,656 - eBanking -INFO - LogIn test Failed
+2022-08-25 07:19:51,673 - eBanking -INFO - URL is Opened
+2022-08-25 07:19:51,818 - eBanking -INFO - Enter User Name
+2022-08-25 07:19:51,945 - eBanking -INFO - Enter your Password
+2022-08-25 07:19:54,084 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:19:54,105 - eBanking -INFO - LogIn test Passed
+2022-08-25 07:29:06,254 - eBanking -INFO - URL is Opened
+2022-08-25 07:29:06,529 - eBanking -INFO - Enter User Name
+2022-08-25 07:29:06,672 - eBanking -INFO - Enter your Password
+2022-08-25 07:29:28,290 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:29:28,306 - eBanking -INFO - LogIn test Passed
+2022-08-25 07:29:43,461 - eBanking -INFO - Enter User Name
+2022-08-25 07:29:43,596 - eBanking -INFO - Enter your Password
+2022-08-25 07:30:07,641 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:30:12,733 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:35:36,323 - eBanking -INFO - Enter User Name
+2022-08-25 07:35:36,467 - eBanking -INFO - Enter your Password
+2022-08-25 07:36:00,844 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:36:05,942 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:38:07,960 - eBanking -INFO - Enter User Name
+2022-08-25 07:38:08,082 - eBanking -INFO - Enter your Password
+2022-08-25 07:38:11,889 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:38:17,177 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:43:11,144 - eBanking -INFO - Enter User Name
+2022-08-25 07:43:11,292 - eBanking -INFO - Enter your Password
+2022-08-25 07:43:35,061 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:43:40,185 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 07:52:42,242 - eBanking -INFO - Enter User Name
+2022-08-25 07:52:42,412 - eBanking -INFO - Enter your Password
+2022-08-25 07:53:06,614 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 07:53:11,705 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 08:00:14,427 - eBanking -INFO - Enter User Name
+2022-08-25 08:00:14,642 - eBanking -INFO - Enter your Password
+2022-08-25 08:00:35,354 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 08:00:40,444 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 08:10:12,950 - eBanking -INFO - Enter User Name
+2022-08-25 08:10:13,086 - eBanking -INFO - Enter your Password
+2022-08-25 08:10:36,061 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 08:10:41,167 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:10:59,660 - eBanking -INFO - Enter User Name
+2022-08-25 11:10:59,799 - eBanking -INFO - Enter your Password
+2022-08-25 11:11:19,606 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:11:24,694 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:18:10,446 - eBanking -INFO - Enter User Name
+2022-08-25 11:18:10,592 - eBanking -INFO - Enter your Password
+2022-08-25 11:18:29,823 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:18:34,908 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:28:05,032 - eBanking -INFO - Enter User Name
+2022-08-25 11:28:05,228 - eBanking -INFO - Enter your Password
+2022-08-25 11:28:28,239 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:28:33,344 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:36:29,088 - eBanking -INFO - Enter User Name
+2022-08-25 11:36:29,231 - eBanking -INFO - Enter your Password
+2022-08-25 11:36:48,770 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:36:53,853 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:41:22,729 - eBanking -INFO - Enter User Name
+2022-08-25 11:41:22,847 - eBanking -INFO - Enter your Password
+2022-08-25 11:41:46,378 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:41:51,478 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:45:33,552 - eBanking -INFO - Enter User Name
+2022-08-25 11:45:33,634 - eBanking -INFO - Enter your Password
+2022-08-25 11:45:58,190 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:46:03,297 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 11:49:11,416 - eBanking -INFO - Enter User Name
+2022-08-25 11:49:11,524 - eBanking -INFO - Enter your Password
+2022-08-25 11:49:34,705 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 11:49:39,798 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 12:01:48,627 - eBanking -INFO - Enter User Name
+2022-08-25 12:01:48,736 - eBanking -INFO - Enter your Password
+2022-08-25 12:02:12,273 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:02:17,359 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 12:15:30,602 - eBanking -INFO - Enter User Name
+2022-08-25 12:15:30,715 - eBanking -INFO - Enter your Password
+2022-08-25 12:15:55,183 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:16:00,297 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 12:40:30,813 - eBanking -INFO - Enter User Name
+2022-08-25 12:40:30,929 - eBanking -INFO - Enter your Password
+2022-08-25 12:40:54,513 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:44:55,686 - eBanking -INFO - Enter User Name
+2022-08-25 12:44:55,764 - eBanking -INFO - Enter your Password
+2022-08-25 12:45:19,906 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:45:24,986 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 12:47:34,478 - eBanking -INFO - Enter User Name
+2022-08-25 12:47:34,584 - eBanking -INFO - Enter your Password
+2022-08-25 12:47:58,366 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:48:03,494 - eBanking -INFO - Clicking newcustomer Button
+2022-08-25 12:50:06,338 - eBanking -INFO - Enter User Name
+2022-08-25 12:50:06,446 - eBanking -INFO - Enter your Password
+2022-08-25 12:50:30,122 - eBanking -INFO - Clicking on SignIn Button
+2022-08-25 12:50:35,214 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 09:41:55,932 - eBanking -INFO - Enter User Name
+2022-08-26 09:41:56,046 - eBanking -INFO - Enter your Password
+2022-08-26 09:42:19,626 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 09:42:24,641 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 09:43:59,695 - eBanking -INFO - Enter User Name
+2022-08-26 09:43:59,799 - eBanking -INFO - Enter your Password
+2022-08-26 09:44:23,271 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 09:44:28,275 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:21:16,003 - eBanking -INFO - Enter User Name
+2022-08-26 10:21:16,278 - eBanking -INFO - Enter your Password
+2022-08-26 10:21:42,223 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 10:21:47,227 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:30:05,694 - eBanking -INFO - Enter User Name
+2022-08-26 10:30:06,023 - eBanking -INFO - Enter your Password
+2022-08-26 10:30:07,996 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 10:30:13,005 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:34:28,983 - eBanking -INFO - Enter User Name
+2022-08-26 10:34:29,099 - eBanking -INFO - Enter your Password
+2022-08-26 10:34:49,857 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 10:34:54,863 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:35:10,766 - eBanking -INFO - Enter first name
+2022-08-26 10:35:11,108 - eBanking -INFO - Enter the Adress
+2022-08-26 10:35:11,220 - eBanking -INFO - Enter the city
+2022-08-26 10:35:11,340 - eBanking -INFO - Enter the state
+2022-08-26 10:35:11,440 - eBanking -INFO - Enter the pin
+2022-08-26 10:35:11,535 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 10:43:40,449 - eBanking -INFO - Enter User Name
+2022-08-26 10:43:40,645 - eBanking -INFO - Enter your Password
+2022-08-26 10:44:03,812 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 10:44:08,823 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:44:27,212 - eBanking -INFO - Enter first name
+2022-08-26 10:44:27,337 - eBanking -INFO - Enter the Adress
+2022-08-26 10:44:27,490 - eBanking -INFO - Enter the city
+2022-08-26 10:44:27,630 - eBanking -INFO - Enter the state
+2022-08-26 10:44:27,736 - eBanking -INFO - Enter the pin
+2022-08-26 10:44:27,836 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 10:48:51,042 - eBanking -INFO - Enter User Name
+2022-08-26 10:48:51,124 - eBanking -INFO - Enter your Password
+2022-08-26 10:49:12,580 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 10:49:17,586 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 10:49:35,026 - eBanking -INFO - Enter first name
+2022-08-26 10:49:35,301 - eBanking -INFO - Enter the Adress
+2022-08-26 10:49:35,378 - eBanking -INFO - Enter the city
+2022-08-26 10:49:35,483 - eBanking -INFO - Enter the state
+2022-08-26 10:49:35,564 - eBanking -INFO - Enter the pin
+2022-08-26 10:49:35,652 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 10:49:35,773 - eBanking -INFO - Enter the email
+2022-08-26 10:49:35,867 - eBanking -INFO - Enter the password
+2022-08-26 10:49:35,924 - eBanking -INFO - Sumbit the form
+2022-08-26 11:01:43,827 - eBanking -INFO - Enter User Name
+2022-08-26 11:01:43,990 - eBanking -INFO - Enter your Password
+2022-08-26 11:01:45,714 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:01:50,728 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:02:06,014 - eBanking -INFO - Enter first name
+2022-08-26 11:02:06,237 - eBanking -INFO - Enter the Adress
+2022-08-26 11:02:06,337 - eBanking -INFO - Enter the city
+2022-08-26 11:02:06,439 - eBanking -INFO - Enter the state
+2022-08-26 11:02:06,523 - eBanking -INFO - Enter the pin
+2022-08-26 11:02:06,618 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 11:02:06,740 - eBanking -INFO - Enter the email
+2022-08-26 11:02:06,828 - eBanking -INFO - Enter the password
+2022-08-26 11:02:06,844 - eBanking -INFO - Submit Failed
+2022-08-26 11:02:06,913 - eBanking -INFO - Sumbit the form
+2022-08-26 11:12:47,319 - eBanking -INFO - Enter User Name
+2022-08-26 11:12:47,441 - eBanking -INFO - Enter your Password
+2022-08-26 11:13:11,852 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:13:16,865 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:14:57,190 - eBanking -INFO - Enter User Name
+2022-08-26 11:14:57,715 - eBanking -INFO - Enter your Password
+2022-08-26 11:15:15,795 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:15:20,796 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:18:08,339 - eBanking -INFO - Enter User Name
+2022-08-26 11:18:08,458 - eBanking -INFO - Enter your Password
+2022-08-26 11:18:29,798 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:18:34,801 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:18:54,162 - eBanking -INFO - Enter first name
+2022-08-26 11:18:54,570 - eBanking -INFO - Enter the Adress
+2022-08-26 11:18:54,700 - eBanking -INFO - Enter the city
+2022-08-26 11:18:54,847 - eBanking -INFO - Enter the state
+2022-08-26 11:18:54,936 - eBanking -INFO - Enter the pin
+2022-08-26 11:18:55,038 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 11:18:55,166 - eBanking -INFO - Enter the email
+2022-08-26 11:18:55,269 - eBanking -INFO - Enter the password
+2022-08-26 11:20:17,646 - eBanking -INFO - Enter User Name
+2022-08-26 11:20:18,119 - eBanking -INFO - Enter your Password
+2022-08-26 11:20:19,753 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:20:24,764 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:20:41,095 - eBanking -INFO - Enter first name
+2022-08-26 11:20:41,340 - eBanking -INFO - Enter the Adress
+2022-08-26 11:20:41,446 - eBanking -INFO - Enter the city
+2022-08-26 11:20:41,569 - eBanking -INFO - Enter the state
+2022-08-26 11:20:41,656 - eBanking -INFO - Enter the pin
+2022-08-26 11:20:41,762 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 11:20:41,893 - eBanking -INFO - Enter the email
+2022-08-26 11:20:41,992 - eBanking -INFO - Enter the password
+2022-08-26 11:20:42,060 - eBanking -INFO - Sumbit the form
+2022-08-26 11:20:42,171 - eBanking -INFO - form Submitted Successfully !
+2022-08-26 11:51:53,982 - eBanking -INFO - user name provided
+2022-08-26 11:51:54,150 - eBanking -INFO - password provided
+2022-08-26 11:52:21,071 - eBanking -INFO - Login passed
+2022-08-26 11:52:48,790 - eBanking -INFO - user name provided
+2022-08-26 11:52:48,958 - eBanking -INFO - password provided
+2022-08-26 11:53:16,329 - eBanking -INFO - user name provided
+2022-08-26 11:53:16,407 - eBanking -INFO - password provided
+2022-08-26 11:53:43,943 - eBanking -INFO - user name provided
+2022-08-26 11:53:44,122 - eBanking -INFO - password provided
+2022-08-26 11:54:11,412 - eBanking -INFO - user name provided
+2022-08-26 11:54:11,601 - eBanking -INFO - password provided
+2022-08-26 11:55:09,617 - eBanking -INFO - URL is Opened
+2022-08-26 11:55:09,746 - eBanking -INFO - Enter User Name
+2022-08-26 11:55:09,884 - eBanking -INFO - Enter your Password
+2022-08-26 11:55:33,358 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:55:33,375 - eBanking -INFO - LogIn test Passed
+2022-08-26 11:55:40,479 - eBanking -INFO - Enter User Name
+2022-08-26 11:55:40,623 - eBanking -INFO - Enter your Password
+2022-08-26 11:55:42,388 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 11:55:47,389 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 11:56:13,495 - eBanking -INFO - Enter first name
+2022-08-26 11:56:13,753 - eBanking -INFO - Enter the Adress
+2022-08-26 11:56:13,859 - eBanking -INFO - Enter the city
+2022-08-26 11:56:13,996 - eBanking -INFO - Enter the state
+2022-08-26 11:56:14,091 - eBanking -INFO - Enter the pin
+2022-08-26 11:56:14,198 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 11:56:14,340 - eBanking -INFO - Enter the email
+2022-08-26 11:56:14,439 - eBanking -INFO - Enter the password
+2022-08-26 11:56:14,519 - eBanking -INFO - Sumbit the form
+2022-08-26 11:56:14,585 - eBanking -INFO - form Submitted Successfully !
+2022-08-26 12:07:10,857 - eBanking -INFO - user name provided
+2022-08-26 12:07:11,005 - eBanking -INFO - password provided
+2022-08-26 12:07:16,602 - eBanking -INFO - Login passed
+2022-08-26 12:08:25,756 - eBanking -INFO - Enter User Name
+2022-08-26 12:08:25,903 - eBanking -INFO - Enter your Password
+2022-08-26 12:08:44,119 - eBanking -INFO - URL is Opened
+2022-08-26 12:08:44,272 - eBanking -INFO - Enter User Name
+2022-08-26 12:08:44,434 - eBanking -INFO - Enter your Password
+2022-08-26 12:08:50,277 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 12:08:55,279 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 12:09:08,141 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 12:09:08,242 - eBanking -INFO - LogIn test Passed
+2022-08-26 12:09:46,790 - eBanking -INFO - Enter User Name
+2022-08-26 12:09:47,736 - eBanking -INFO - Enter your Password
+2022-08-26 12:10:08,939 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 12:10:13,948 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 12:11:12,185 - eBanking -INFO - Enter User Name
+2022-08-26 12:11:12,293 - eBanking -INFO - Enter your Password
+2022-08-26 12:11:35,648 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 12:11:40,663 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 14:12:39,115 - eBanking -INFO - Enter User Name
+2022-08-26 14:12:39,286 - eBanking -INFO - Enter your Password
+2022-08-26 14:13:03,136 - eBanking -INFO - Clicking on SignIn Button
+2022-08-26 14:13:08,138 - eBanking -INFO - Clicking newcustomer Button
+2022-08-26 14:13:37,225 - eBanking -INFO - Enter first name
+2022-08-26 14:13:37,457 - eBanking -INFO - Enter the Adress
+2022-08-26 14:13:37,551 - eBanking -INFO - Enter the city
+2022-08-26 14:13:37,652 - eBanking -INFO - Enter the state
+2022-08-26 14:13:37,739 - eBanking -INFO - Enter the pin
+2022-08-26 14:13:37,841 - eBanking -INFO - Enter the Mobilenumber
+2022-08-26 14:13:37,963 - eBanking -INFO - Enter the email
+2022-08-26 14:13:38,072 - eBanking -INFO - Enter the password
+2022-08-26 14:13:38,163 - eBanking -INFO - Sumbit the form
+2022-08-26 14:13:38,261 - eBanking -INFO - form Submitted Successfully !
+2022-08-29 06:14:09,768 - eBanking -INFO - Enter User Name
+2022-08-29 06:14:09,999 - eBanking -INFO - Enter your Password
+2022-08-29 06:14:11,719 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 06:14:16,727 - eBanking -INFO - Clicking newcustomer Button
+2022-08-29 06:14:31,443 - eBanking -INFO - Enter first name
+2022-08-29 06:14:31,624 - eBanking -INFO - enter the Date !
+2022-08-29 06:14:31,777 - eBanking -INFO - Enter the Adress
+2022-08-29 06:14:31,866 - eBanking -INFO - Enter the city
+2022-08-29 06:14:31,981 - eBanking -INFO - Enter the state
+2022-08-29 06:14:32,077 - eBanking -INFO - Enter the pin
+2022-08-29 06:14:32,193 - eBanking -INFO - Enter the Mobilenumber
+2022-08-29 06:14:32,376 - eBanking -INFO - Enter the email
+2022-08-29 06:14:32,510 - eBanking -INFO - Enter the password
+2022-08-29 06:14:32,579 - eBanking -INFO - Sumbit the form
+2022-08-29 06:14:32,644 - eBanking -INFO - form Submitted Successfully !
+2022-08-29 06:15:53,691 - eBanking -INFO - Enter User Name
+2022-08-29 06:15:53,818 - eBanking -INFO - Enter your Password
+2022-08-29 06:16:16,582 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 06:16:21,590 - eBanking -INFO - Clicking newcustomer Button
+2022-08-29 06:16:37,015 - eBanking -INFO - Enter first name
+2022-08-29 06:16:37,192 - eBanking -INFO - enter the Date !
+2022-08-29 06:16:40,345 - eBanking -INFO - Enter the Adress
+2022-08-29 06:16:40,421 - eBanking -INFO - Enter the city
+2022-08-29 06:16:40,519 - eBanking -INFO - Enter the state
+2022-08-29 06:16:40,601 - eBanking -INFO - Enter the pin
+2022-08-29 06:16:40,694 - eBanking -INFO - Enter the Mobilenumber
+2022-08-29 06:16:40,811 - eBanking -INFO - Enter the email
+2022-08-29 06:16:40,901 - eBanking -INFO - Enter the password
+2022-08-29 06:16:40,965 - eBanking -INFO - Sumbit the form
+2022-08-29 06:16:41,017 - eBanking -INFO - form Submitted Successfully !
+2022-08-29 06:18:08,432 - eBanking -INFO - Enter User Name
+2022-08-29 06:18:08,619 - eBanking -INFO - Enter your Password
+2022-08-29 06:18:10,175 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 06:18:15,185 - eBanking -INFO - Clicking newcustomer Button
+2022-08-29 06:18:31,150 - eBanking -INFO - Enter first name
+2022-08-29 06:18:31,305 - eBanking -INFO - enter the Date !
+2022-08-29 06:18:34,458 - eBanking -INFO - Enter the Adress
+2022-08-29 06:18:34,538 - eBanking -INFO - Enter the city
+2022-08-29 06:18:34,640 - eBanking -INFO - Enter the state
+2022-08-29 06:18:34,719 - eBanking -INFO - Enter the pin
+2022-08-29 06:18:34,809 - eBanking -INFO - Enter the Mobilenumber
+2022-08-29 06:18:34,940 - eBanking -INFO - Enter the email
+2022-08-29 06:18:35,046 - eBanking -INFO - Enter the password
+2022-08-29 06:18:37,186 - eBanking -INFO - Sumbit the form
+2022-08-29 06:19:13,628 - eBanking -INFO - Enter User Name
+2022-08-29 06:19:13,773 - eBanking -INFO - Enter your Password
+2022-08-29 06:19:37,393 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 06:19:42,407 - eBanking -INFO - Clicking newcustomer Button
+2022-08-29 06:19:57,978 - eBanking -INFO - Enter first name
+2022-08-29 06:19:58,126 - eBanking -INFO - enter the Date !
+2022-08-29 06:20:01,301 - eBanking -INFO - Enter the Adress
+2022-08-29 06:20:01,379 - eBanking -INFO - Enter the city
+2022-08-29 06:20:01,477 - eBanking -INFO - Enter the state
+2022-08-29 06:20:01,561 - eBanking -INFO - Enter the pin
+2022-08-29 06:20:01,654 - eBanking -INFO - Enter the Mobilenumber
+2022-08-29 06:20:01,776 - eBanking -INFO - Enter the email
+2022-08-29 06:20:01,863 - eBanking -INFO - Enter the password
+2022-08-29 06:20:02,798 - eBanking -INFO - Sumbit the form
+2022-08-29 06:20:04,416 - eBanking -INFO - form Submitted Successfully !
+2022-08-29 10:12:32,350 - eBanking -INFO - user name provided
+2022-08-29 10:12:32,490 - eBanking -INFO - password provided
+2022-08-29 10:12:37,035 - eBanking -INFO - Login passed
+2022-08-29 10:12:43,092 - eBanking -INFO - user name provided
+2022-08-29 10:12:43,429 - eBanking -INFO - password provided
+2022-08-29 10:12:49,055 - eBanking -INFO - user name provided
+2022-08-29 10:12:49,142 - eBanking -INFO - password provided
+2022-08-29 10:12:54,545 - eBanking -INFO - user name provided
+2022-08-29 10:12:54,829 - eBanking -INFO - password provided
+2022-08-29 10:13:04,450 - eBanking -INFO - user name provided
+2022-08-29 10:13:04,624 - eBanking -INFO - password provided
+2022-08-29 10:13:15,850 - eBanking -INFO - URL is Opened
+2022-08-29 10:13:16,054 - eBanking -INFO - Enter User Name
+2022-08-29 10:13:16,196 - eBanking -INFO - Enter your Password
+2022-08-29 10:13:17,722 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 10:13:17,737 - eBanking -INFO - LogIn test Passed
+2022-08-29 10:13:25,142 - eBanking -INFO - Enter User Name
+2022-08-29 10:13:25,410 - eBanking -INFO - Enter your Password
+2022-08-29 10:13:27,257 - eBanking -INFO - Clicking on SignIn Button
+2022-08-29 10:13:32,272 - eBanking -INFO - Clicking newcustomer Button
+2022-08-29 10:13:48,753 - eBanking -INFO - Enter first name
+2022-08-29 10:13:48,947 - eBanking -INFO - enter the Date !
+2022-08-29 10:13:49,107 - eBanking -INFO - Enter the Adress
+2022-08-29 10:13:49,211 - eBanking -INFO - Enter the city
+2022-08-29 10:13:49,320 - eBanking -INFO - Enter the state
+2022-08-29 10:13:49,418 - eBanking -INFO - Enter the pin
+2022-08-29 10:13:49,524 - eBanking -INFO - Enter the Mobilenumber
+2022-08-29 10:13:49,680 - eBanking -INFO - Enter the email
+2022-08-29 10:13:49,786 - eBanking -INFO - Enter the password
+2022-08-29 10:13:50,255 - eBanking -INFO - Sumbit the form
+2022-08-29 10:13:51,226 - eBanking -INFO - form Submitted Successfully !
